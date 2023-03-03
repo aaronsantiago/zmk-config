@@ -1,0 +1,17 @@
+steps to install
+
+make any changes you need to the keymap in config/lily58.keymap
+
+back up the changes probably
+
+push to this repo
+
+check github actions for the built firmware
+
+download the firmware zip, extract and get the left side firmware
+
+plug in the left side via USB
+
+double tap the reset button to enter bootloader mode
+
+copy the firmware file to the drive that pops up
